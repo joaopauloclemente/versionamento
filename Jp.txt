@@ -2,7 +2,8 @@
 git config --global user.email “joaopauloclementesilva@gmail.com”
 git config --global user.name “joaopauloclemente”
 
-
+git branch feactaure01
+git checkout
 
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
