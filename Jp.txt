@@ -1,0 +1,12 @@
+
+git config --global user.email “joaopauloclementesilva@gmail.com”
+git config --global user.name “joaopauloclemente”
+
+
+
+<HTML>
+<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<BODY>
+   <H1> TÍTULO1 </H1>
+</BODY>
+</HTML>
